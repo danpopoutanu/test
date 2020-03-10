@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Vodafone Lt";
+  src: url("../../static/fonts/vodafone-light.eot");
+  src: url("../../static/fonts/vodafone-light.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../static/fonts/vodafone-light.woff2") format("woff2"),
+    url("../../static/fonts/vodafone-light.woff") format("woff"),
+    url("../../static/fonts/vodafone-light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Vodafone Rg";
+  src: url("../../static/fonts/vodafone-regular.eot");
+  src: url("../../static/fonts/vodafone-regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../static/fonts/vodafone-regular.woff2") format("woff2"),
+    url("../../static/fonts/vodafone-regular.woff") format("woff"),
+    url("../../static/fonts/vodafone-regular.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Vodafone Rg";
+  src: url("../../static/fonts/vodafone-bold.eot");
+  src: url("../../static/fonts/vodafone-bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../static/fonts/vodafone-bold.woff2") format("woff2"),
+    url("../../static/fonts/vodafone-bold.woff") format("woff"),
+    url("../../static/fonts/vodafone-bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
